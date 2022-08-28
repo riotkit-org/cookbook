@@ -50,7 +50,7 @@ Chapters
 
    6.1. Victoria Metrics
 
-   6.2. Uptime Kuma
+   6.2. Uptime Kuma and Uptime Robot
 
    6.3. InfraCheck
 
