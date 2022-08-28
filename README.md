@@ -12,6 +12,8 @@ Chapters
    
    1.3. TOR
 
+   1.4. Firewall with UFW
+
 2. Fundamental services - "Core Services"
 
    2.1. Setting up GIT and Password manager
