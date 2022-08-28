@@ -36,15 +36,31 @@ Chapters
 
    4.4. ArgoCD
 
-5. Observability
+5. Managing cluster declaratively
 
-   5.1. Victoria Metrics
-
-   5.2. Uptime Kuma
-
-6. Security
-
-   6.1. Network Policies
+   5.1. Namespaces
    
-   6.2. Seccomp and AppArmor
+   5.2. PVCs
+
+   5.3. Secrets
+
+6. Observability
+
+   6.1. Victoria Metrics
+
+   6.2. Uptime Kuma
+
+   6.3. InfraCheck
+
+7. Security
+
+   7.1. Network Policies
+
+   7.2. Egress traffic with TOR
+   
+   6.3. Seccomp and AppArmor
+
+8. Sending e-mails
+
+   8.1. Setting up a mail relay
 
