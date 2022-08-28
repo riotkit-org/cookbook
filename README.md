@@ -66,3 +66,19 @@ Chapters
 
    8.1. Setting up a mail relay
 
+9. Extras
+
+   9.1. Synchronizing volumes with external S3-compatilbe storage (volume-syncing-controller)
+   
+   9.2. Cloning git repositories inside Kubernetes Pods on pod initialization (git-clone-controller)
+
+10. Backup
+
+   10.1. Setting up Backup Repository
+  
+   10.2. Using backup-maker
+
+   10.3. Additional note about volume-syncing-controller
+   
+
+
