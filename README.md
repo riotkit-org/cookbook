@@ -54,6 +54,8 @@ Chapters
 
    6.3. InfraCheck
 
+   6.4. Alerting from Grafana
+
 7. Security
 
    7.1. Network Policies
